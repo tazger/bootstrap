@@ -16,11 +16,18 @@ h1 {
 }
 
 hr {
+  display: block;
+  margin:2rem auto;
   border-color: #F05F44;
   border-width: 3px;
   max-width: 65px;
 }
+
+.buffer {
+  height: 10rem;
+}
  
+
 .btn {
   font-weight: 700;
   border-radius: 300px;
