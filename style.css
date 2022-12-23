@@ -15,13 +15,16 @@ h1 {
   color: #e2dbdb;
 }
 
+
+
 hr {
-  display: block;
-  margin:2rem auto;
-  border-color: #F05F44;
-  border-width: 3px;
-  max-width: 65px;
+    margin: 20px auto;
+    color: #F05F44;
+    border: 3px solid #F05F44;
+    max-width: 65px;
+    opacity: 1;  
 }
+
 
 .buffer {
   height: 10rem;
